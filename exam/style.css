@@ -1,0 +1,77 @@
+.li {
+    color: rgb(255, 0, 0);
+    list-style-type: none;
+    font-size: 20px;
+}
+
+
+
+
+.texth2 {
+    color: black;
+    font-weight: 900;
+    font-size: 35px;
+}
+
+.textweight {
+    font-size: 40px;
+}
+
+.textsize {
+    font-size: 60px;
+    font-weight: 900;
+
+}
+
+.header {
+    background-color: #212529;
+}
+
+.text3 {
+    font-weight: 900;
+    font-size: 50px;
+}
+
+.rows {
+    background-color: rgba(223, 255, 13, 0.601);
+}
+
+.img {
+    width: 100%;
+}
+
+.p {
+    padding: 0;
+    font-weight: 500;
+    font-size: 25px;
+}
+
+ul li p {
+    color: black;
+    font-size: 15px;
+}
+
+.ps {
+    font-size: 25px;
+}
+
+.buut {
+    border-radius: 40px;
+    background-color: #212529;
+    color: red;
+
+
+}
+
+.buut:hover {
+    background: linear-gradient(to right, red, pink, blue, orange, gray, yellow);
+}
+
+.pss {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.les {
+    list-style-type: none;
+}
